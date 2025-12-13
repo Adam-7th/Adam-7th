@@ -17,7 +17,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adam-7th&label=Profile%20views&color=0e75b6&style=flat" alt="adam-7th" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adam-7th" alt="adam-7th" /></a> </p>
 
 - 🌱 I’m currently learning **Data Analyisis Power BI**
 
